@@ -1,0 +1,15 @@
+export const CardsWithImages = [
+  { id: 1, image: 'https://i.imgur.com/PWZDdfe.png', tech: 'UX', title: 'BUSINESS UNITY', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' },
+  { id: 2, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633478260/site-gok/ios-dev_vfv1ct.png', tech: 'UX', title: 'BUSINESS UNITY', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' },
+  { id: 3, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633478259/site-gok/android-bu_mzopxh.png', tech: 'UX', title: 'BUSINESS UNITY', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' },
+  { id: 4, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633478259/site-gok/ar-bu_zwmlf3.png', tech: 'UX', title: 'BUSINESS UNITY', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' }
+]
+
+export const CardsWithImagesCases = [
+  { id: 1, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633484858/site-gok/CASES/Mask_Group_al5u0r.png', tech: 'Risque', title: 'SIMULADOR DE SMALTES', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' },
+  { id: 2, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633484858/site-gok/CASES/cocacola_h2xphk.png', tech: 'COCA-COLA', title: 'LOCALIZADOR DE HACKS COCA-COLA', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' },
+  { id: 3, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633484858/site-gok/CASES/buying_xoic0r.png', tech: 'PERNAMBUCANAS', title: 'BUSINESS UNITY', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' },
+  { id: 4, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633484858/site-gok/CASES/digio_dg1yn9.png', tech: 'PERNAMBUCANAS', title: 'PLATAFORMA DIGITAL DIGIO', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' },
+  { id: 4, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633484858/site-gok/CASES/pernambucanas_ctxkbi.png', tech: 'PERNAMBUCANAS', title: 'Plataforma Pernambucanas', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' },
+  { id: 4, image: 'https://res.cloudinary.com/code-comunity/image/upload/v1633484858/site-gok/CASES/missaocovide_ddv7h6.png', tech: 'PERNAMBUCANAS', title: 'Plataforma Missão Saúde', description: 'Mudamos a forma como as pessoas interagem com as lojas através da tecnologia, o aplicativo Pernambucanas ', subtitle: 'DESIGN' }
+]
