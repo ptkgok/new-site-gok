@@ -5,7 +5,7 @@ export const menuOptions = [
   },
   {
     label: 'Go News',
-    path: '#'
+    path: '/gonews'
   },
   {
     label: 'Nossas Soluções',
