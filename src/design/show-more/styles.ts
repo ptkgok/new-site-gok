@@ -1,11 +1,13 @@
 import styled from 'styled-components';
 import theme from '../../styles/theme';
 
-export const Container = styled.div`
+export const Container = styled.a`
   margin: 50px 0px;
   display: flex;
   width: 100%;
   align-items: center;
+  text-decoration: none;
+  color: ${theme.colors.text};
   ::before, ::after {
     content: '';
     display: block;

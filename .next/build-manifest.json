@@ -33,6 +33,11 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/gonews.js"
+    ],
+    "/solutions": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/solutions.js"
     ]
   },
   "ampFirstPages": []

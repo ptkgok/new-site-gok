@@ -11,7 +11,7 @@ const Sandbox: React.FC = () => {
           image="https://res.cloudinary.com/code-comunity/image/upload/v1633436182/site-gok/Imagem_BG_st7viu.png"
           title="GONEWS"
           description={<p>Acompanhe nossas novidades e insights do mercado tecnológico. Inovações,
-          projetos e metodologias. <strong>Fique por dentro!</strong> </p>}
+            projetos e metodologias. <strong>Fique por dentro!</strong> </p>}
         />
       }
       content={<ContentGoNews />}

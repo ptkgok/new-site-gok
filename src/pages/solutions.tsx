@@ -16,9 +16,9 @@ const SolutionsPage: React.FC = () => {
           bgSize="cover"
           title="Nossa estrutura é totalmente flexivel"
           description={
-            <div>
-              <Button text="Products" onClick={()=>setSide('products')} />
-              <Button text="Cases" onClick={()=>setSide('cases')} />
+            <div style={{ marginTop: '70px', position: 'absolute' }}>
+              <Button style={{ color: side === 'products' ? 'black' : 'white', border: 'none', background: side !== 'products' && 'none' }} text="Products" onClick={() => setSide('products')} />
+              <Button style={{ color: side === 'cases' ? 'black' : 'white', border: 'none', background: side !== 'cases' && 'none' }} text="Cases" onClick={() => setSide('cases')} />
             </div>
           }
         />

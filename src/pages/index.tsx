@@ -24,7 +24,7 @@ const Home: React.FC = () => {
       </HomeLayoutContents>
       <GoNewsHeader />
       <ContentGoNews />
-      <ShowMoreSeparator />
+      <ShowMoreSeparator url="/gonews" />
       <ClientSections />
       <div style={{
         marginTop: 50,
@@ -34,9 +34,9 @@ const Home: React.FC = () => {
         padding: '0px 50px'
       }}>
         <SolutionsProducts />
-        <ShowMoreSeparator />
+        <ShowMoreSeparator url="/solutions" />
         <SolutionsCases />
-        <ShowMoreSeparator />
+        <ShowMoreSeparator url="/solutions" />
       </div>
       <Footer />
     </>
